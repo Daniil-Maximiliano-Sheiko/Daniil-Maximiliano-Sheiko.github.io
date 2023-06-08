@@ -1,0 +1,4 @@
+User-agent: *
+Allow: ./pages
+Disallow: ./images/rectangle_14.png
+Sitemap: /sitemap.xml
